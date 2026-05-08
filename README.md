@@ -47,7 +47,7 @@ Below is a screenshot example of the app in action:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/speech2text-whisper-app.git
+git clone https://github.com/sanjiv856/Speech2Text-Whisper-Gradio-App.git
 cd speech2text-whisper-app
 ```
 
